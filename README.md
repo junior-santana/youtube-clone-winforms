@@ -2,7 +2,7 @@
 A clone of YouTube Home Page interface in good old Windows Forms 
 
 ## Why?
-I've been working with WinForms for many years, but generally there aren't much beautiful designed screens made with it.
+I've been working with WinForms for many years, but generally there aren't much beautiful designed screens made with it. \
 So I took this just to challenge myself. XD
 
 ### Features
